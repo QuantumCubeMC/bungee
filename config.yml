@@ -36,5 +36,9 @@ servers:
     address: localhost:25566
     restricted: false
     motd: '&6Quantum&aCube&9MC'
+  parkour:
+    address: localhost:25567
+    restricted: false
+    motd: '&6Quantum&aCube&9MC'
 ip_forward: false
 online_mode: true
