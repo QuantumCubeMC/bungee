@@ -1,0 +1,77 @@
+20:12:48 [INFO] Using OpenSSL based native cipher.
+20:12:48 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.7-SNAPSHOT:"e573f7b":980
+20:12:48 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:12:48 [INFO] Epoll is working, utilising it!
+20:12:48 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:12:48 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:12:48 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:12:48 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:12:48 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:12:48 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:12:48 [INFO] Attempting to update plugin from null to ModuleVersion(build=980, git=e573f7b)
+20:12:48 [INFO] Attempting to Jenkins download module cmd_alert v980
+20:12:48 [INFO] Download complete
+20:12:48 [INFO] Attempting to update plugin from null to ModuleVersion(build=980, git=e573f7b)
+20:12:48 [INFO] Attempting to Jenkins download module cmd_find v980
+20:12:48 [INFO] Download complete
+20:12:48 [INFO] Attempting to update plugin from null to ModuleVersion(build=980, git=e573f7b)
+20:12:48 [INFO] Attempting to Jenkins download module cmd_list v980
+20:12:48 [INFO] Download complete
+20:12:48 [INFO] Attempting to update plugin from null to ModuleVersion(build=980, git=e573f7b)
+20:12:48 [INFO] Attempting to Jenkins download module cmd_send v980
+20:12:48 [INFO] Download complete
+20:12:48 [INFO] Attempting to update plugin from null to ModuleVersion(build=980, git=e573f7b)
+20:12:48 [INFO] Attempting to Jenkins download module cmd_server v980
+20:12:48 [INFO] Download complete
+20:12:48 [INFO] Attempting to update plugin from null to ModuleVersion(build=980, git=e573f7b)
+20:12:48 [INFO] Attempting to Jenkins download module reconnect_yaml v980
+20:12:48 [INFO] Download complete
+20:12:48 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:48 [INFO] Loaded plugin cmd_find version git:cmd_find:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:48 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:48 [INFO] Loaded plugin cmd_server version git:cmd_server:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:48 [INFO] Loaded plugin cmd_send version git:cmd_send:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:48 [INFO] Loaded plugin cmd_list version git:cmd_list:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:49 [WARNING] Forced host server pvp is not defined
+20:12:49 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_find version git:cmd_find:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:49 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_server version git:cmd_server:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_send version git:cmd_send:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_list version git:cmd_list:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:12:49 [INFO] Listening on /0.0.0.0:25577
+20:12:53 [INFO] Closing listener [id: 0x8572489a, /0.0.0.0:25577]
+20:12:53 [INFO] Closing pending connections
+20:12:53 [INFO] Disconnecting 0 connections
+20:12:53 [INFO] Closing IO threads
+20:12:55 [INFO] Saving reconnect locations
+20:12:55 [INFO] Disabling plugins
+20:14:31 [INFO] Using OpenSSL based native cipher.
+20:14:31 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.7-SNAPSHOT:"e573f7b":980
+20:14:32 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:14:32 [INFO] Epoll is working, utilising it!
+20:14:32 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:14:32 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:14:32 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:14:32 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:14:32 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:14:32 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:14:32 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Loaded plugin cmd_find version git:cmd_find:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Loaded plugin cmd_server version git:cmd_server:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Loaded plugin cmd_send version git:cmd_send:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Loaded plugin cmd_list version git:cmd_list:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [WARNING] Forced host server pvp is not defined
+20:14:32 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Enabled plugin cmd_find version git:cmd_find:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Enabled plugin cmd_server version git:cmd_server:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Enabled plugin cmd_send version git:cmd_send:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Enabled plugin cmd_list version git:cmd_list:1.7-SNAPSHOT:"e573f7b":980 by SpigotMC
+20:14:32 [INFO] Listening on /0.0.0.0:25565
+20:14:34 [INFO] Closing listener [id: 0x62304d28, /0.0.0.0:25565]
+20:14:34 [INFO] Closing pending connections
+20:14:34 [INFO] Disconnecting 0 connections
+20:14:34 [INFO] Closing IO threads
+20:14:36 [INFO] Disabling plugins
